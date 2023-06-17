@@ -1,9 +1,9 @@
 <?php
 
-    require_once "modelo/claseCliente.php";
-    require_once "modelo/claseProducto.php";
-    require_once "modelo/claseMarca.php";
-    require_once "modelo/claseProveedor.php";
+    require_once 'modelo/claseCliente.php';
+    require_once 'modelo/claseProducto.php';
+    require_once 'modelo/claseMarca.php';
+    require_once 'modelo/claseProveedor.php';
 
     #Instanciar clase Cliente
     $c_cliente = new Cliente();
